@@ -181,34 +181,3 @@ Mahasiswa | Computer Science Enthusiast
 Project ini dibuat untuk keperluan pembelajaran dan pengembangan pribadi.
 
 ```
-
----
-
-# 🔍 Evaluasi Jujur (Biar Kamu Paham Levelnya)
-
-README ini:
-- ✔ bukan template biasa
-- ✔ sudah menjelaskan konsep, bukan cuma cara jalan
-- ✔ menunjukkan pemahaman struktur data
-- ✔ cocok untuk GitHub + tugas kuliah
-
----
-
-# 🔥 Insight Penting
-
-Kalau kamu hanya upload kode tanpa README seperti ini:
-→ terlihat seperti tugas biasa  
-
-Dengan README ini:
-→ terlihat seperti **mini project serius**
-
----
-
-# 🚀 Kalau Mau Naik Level Lagi
-Aku bisa bantu upgrade jadi:
-- README dengan **badge (build, language, dll)**
-- versi **portfolio-ready**
-- atau **versi bilingual (Indonesia + English)**
-
-Tinggal bilang 👍
-```
