@@ -176,4 +176,3 @@ Mahasiswa | Computer Science Enthusiast
 
 Project ini dibuat untuk keperluan pembelajaran dan pengembangan pribadi.
 
-```
