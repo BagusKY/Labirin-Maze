@@ -51,24 +51,24 @@ Program akan:
 ```
 
 maze-solver-stack-python/
-
+|
 │
-
-├── maze.py              # Logic utama maze & pathfinding
-
-├── stack.py             # Implementasi Stack ADT
-
-├── cell.py              # Representasi posisi (opsional OOP)
-
-├── main.py              # Entry point program
-
-├── utils.py             # Helper & validasi
-
-├── maze_generator.py    # Generator maze random (advanced)
-
-├── maze_input.txt       # Input maze
-
-└── README.md            # Dokumentasi project
+|
+├── maze.py                 # Logic utama maze & pathfinding
+|
+├── stack.py                # Implementasi Stack ADT
+|
+├── cell.py                 # Representasi posisi (opsional OOP)
+|
+├── main.py                 # Entry point program
+|
+├── utils.py                # Helper & validasi
+|
+├── maze_generator.py       # Generator maze random (advanced)
+|
+├── maze_input.txt          # Input maze
+|
+└── README.md               # Dokumentasi project
 
 ```
 
