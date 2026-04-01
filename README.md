@@ -1,8 +1,4 @@
-Siap. Aku akan buatkan **README.md yang bukan sekadar formalitas**, tapi benar-benar terlihat seperti project serius (GitHub-ready, bisa jadi portfolio).
-
----
-
-# 📄 README.md (Lengkap, Advanced, & Attractive)
+# 📄 README.md
 
 ```markdown
 # 🧩 Maze Solver with Stack (Backtracking Algorithm)
